@@ -1,0 +1,5 @@
+body {background-color: lightslategray;}
+hr {border-style:none; height: 2px; background-color: white;}
+h1 {color: yellow;}
+h3 {color: yellow;}
+/* <!--This is internal CSS.--> <!--Here you can see border-style: none; that means it has no any pixel(0px) so that's why i have to add pixels to visible horizontal line.--> */
